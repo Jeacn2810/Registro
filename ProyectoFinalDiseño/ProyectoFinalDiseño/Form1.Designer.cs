@@ -47,13 +47,16 @@
             // 
             // datagridPersona
             // 
+            this.datagridPersona.BackgroundColor = System.Drawing.Color.Silver;
             this.datagridPersona.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.datagridPersona.GridColor = System.Drawing.SystemColors.ActiveCaption;
             this.datagridPersona.Location = new System.Drawing.Point(68, 136);
             this.datagridPersona.Name = "datagridPersona";
             this.datagridPersona.RowHeadersWidth = 62;
             this.datagridPersona.RowTemplate.Height = 28;
             this.datagridPersona.Size = new System.Drawing.Size(991, 286);
             this.datagridPersona.TabIndex = 1;
+            this.datagridPersona.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.datagridPersona_CellContentClick);
             // 
             // REGISTROS
             // 

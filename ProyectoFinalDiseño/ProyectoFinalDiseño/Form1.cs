@@ -69,5 +69,16 @@ namespace ProyectoFinalDiseño
 
 
         }
+
+        private void datagridPersona_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (datagridPersona.Columns[e.ColumnIndex].Name == "btnModificar")
+            {
+                Persona persona = (Persona)datagridPersona.SelectedRows[0].DataBoundItem;
+                USUARIO formUsuario = new USUARIO(persona);
+                formUsuario.ShowDialog();
+                MostrarListaPersonas();
+            }
+        }
     }
 }
