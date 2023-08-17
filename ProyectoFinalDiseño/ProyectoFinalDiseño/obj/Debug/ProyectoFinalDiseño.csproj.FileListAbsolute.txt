@@ -1,0 +1,11 @@
+C:\Users\jeacn\source\repos\ProyectoFinalDiseño\ProyectoFinalDiseño\bin\Debug\ProyectoFinalDiseño.exe.config
+C:\Users\jeacn\source\repos\ProyectoFinalDiseño\ProyectoFinalDiseño\bin\Debug\ProyectoFinalDiseño.exe
+C:\Users\jeacn\source\repos\ProyectoFinalDiseño\ProyectoFinalDiseño\bin\Debug\ProyectoFinalDiseño.pdb
+C:\Users\jeacn\source\repos\ProyectoFinalDiseño\ProyectoFinalDiseño\obj\Debug\ProyectoFinalDiseño.csproj.AssemblyReference.cache
+C:\Users\jeacn\source\repos\ProyectoFinalDiseño\ProyectoFinalDiseño\obj\Debug\ProyectoFinalDiseño.REGISTROS.resources
+C:\Users\jeacn\source\repos\ProyectoFinalDiseño\ProyectoFinalDiseño\obj\Debug\ProyectoFinalDiseño.Properties.Resources.resources
+C:\Users\jeacn\source\repos\ProyectoFinalDiseño\ProyectoFinalDiseño\obj\Debug\ProyectoFinalDiseño.csproj.GenerateResource.cache
+C:\Users\jeacn\source\repos\ProyectoFinalDiseño\ProyectoFinalDiseño\obj\Debug\ProyectoFinalDiseño.csproj.CoreCompileInputs.cache
+C:\Users\jeacn\source\repos\ProyectoFinalDiseño\ProyectoFinalDiseño\obj\Debug\ProyectoFinalDiseño.exe
+C:\Users\jeacn\source\repos\ProyectoFinalDiseño\ProyectoFinalDiseño\obj\Debug\ProyectoFinalDiseño.pdb
+C:\Users\jeacn\source\repos\ProyectoFinalDiseño\ProyectoFinalDiseño\obj\Debug\ProyectoFinalDiseño.USUARIO.resources
